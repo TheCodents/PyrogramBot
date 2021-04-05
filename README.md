@@ -40,7 +40,7 @@ Simple Base for Users Who wants to make their own Telegram Bots in **[Pyrogram](
 
 ## Report Bugs
 
-Report Bugs in [@PythonDevsChat](https://t.me/PythonDevsChat)
+Report Bugs in [@TheCodentsSupport](https://t.me/TheCodentsSupport)
 
 Do Fork And Star The Repository If You Liked It.
 
